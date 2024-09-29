@@ -98,7 +98,7 @@ audio,canvas,iframe,img,svg,video {
 }
 
 canvas,img,video {
-    max-width: 100%;
+    width: 100%;
     height: auto
 }
 
